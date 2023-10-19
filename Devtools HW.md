@@ -2,7 +2,7 @@
 
 >Сделать скрин видео выполнения задания. Видео засылайте в личку.
 
-**Ссылка на видео** - https://drive.google.com/file/d/1iikwHY4t4_vfPNZIt1aga4MD8SZtM87Y/view?usp=sharing
++ **Ссылка на видео** - https://drive.google.com/file/d/1iikwHY4t4_vfPNZIt1aga4MD8SZtM87Y/view?usp=sharing
 
 1. Открыть сайт http://itcareer.pythonanywhere.com/
 1. Открыть Chrome DevTools
