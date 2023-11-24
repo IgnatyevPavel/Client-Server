@@ -2,19 +2,7 @@
 Двухуровневая:
 + client - web server - **database** 
 
-
-
-
-
-
-
-
-
-
-
-
 Многоуровневая:
-
 + client - web server - database - **web service**
 ___
 ### 2. Что такое API
