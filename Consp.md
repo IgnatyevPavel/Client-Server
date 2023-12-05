@@ -1,17 +1,6 @@
 ### 1. Уровни клиент - серверной архитектры
 Двухуровневая:
-+ client - web server - **database** 
-
-
-
-
-
-
-
-
-
-
-
++ client - web server - **database**
 
 Многоуровневая:
 + client - web server - database - **web service**
