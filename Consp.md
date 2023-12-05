@@ -3,6 +3,7 @@
 + client - web server - **database** 
 
 
+
 Многоуровневая:
 + client - web server - database - **web service**
 ___
